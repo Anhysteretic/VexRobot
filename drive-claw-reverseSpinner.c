@@ -64,8 +64,8 @@ task main() // main code
 		// get input and spin drum motor when needed
 		if(vexRT[Btn6D] == 1)
 		{
-			motor[LeftDrumSpinner]=123;
-			motor[RightDrumSpinner]=-123;
+			motor[LeftDrumSpinner]=-123;
+			motor[RightDrumSpinner]=123;
 		}
 		else
 		{
