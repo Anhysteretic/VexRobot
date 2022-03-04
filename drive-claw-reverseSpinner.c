@@ -53,11 +53,11 @@ task main() // main code
 
 		while(vexRT[Btn7L] == 1)
 		{
-			motor[claw] = 30;
+			motor[claw] = 55;
 		}
 		while(vexRT[Btn7D] == 1)
 		{
-			motor[claw] = -30;
+			motor[claw] = -55;
 		}
 
 
