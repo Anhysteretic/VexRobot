@@ -51,14 +51,18 @@ task main() // main code
 
 		motor[clawRotation] = vexRT[Ch3];
 
-		while(vexRT[Btn7L] == 1)
+		if(vexRT[Btn7L] == 1)
 		{
 			motor[claw] = 55;
 		}
-		while(vexRT[Btn7D] == 1)
+		else if(vexRT[Btn7D] == 1)
 		{
 			motor[claw] = -55;
 		}
+		else
+		{
+			motor[claw] = 0;
+		} 
 
 
 		// get input and spin drum motor when needed
