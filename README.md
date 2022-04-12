@@ -1,5 +1,14 @@
+# __Project done__
+
+
 # vexRoboticsTank
-A tank I built in gateway classs
+A tank worked on originally by Matteo P. and I. 
+
+Then Erik P.
+
+Then Alden H.
+
+Then others.
 
 # Build
 
