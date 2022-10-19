@@ -1,14 +1,10 @@
 # __Project done__
 
 
-# vexRoboticsTank
+# vexRobot
 A tank worked on originally by Matteo P. and I. 
 
-Then Erik P.
-
-Then Alden H.
-
-Then others.
+Then Erik P, Alden H. and others
 
 # Build
 
