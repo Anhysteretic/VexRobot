@@ -12,7 +12,3 @@ This robot involves two tank tread like in a regular tank. There are two motors 
 
 This is a Vex 4 code. 
 
-
-# branches:
-
-[Description here](/branches.md)
