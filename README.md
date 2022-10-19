@@ -8,10 +8,9 @@ Then Erik P, Alden H. and others
 
 # Build
 
-This tank involves two tank tread like in a regular tank. There are two motors on each sides. The motors on each side are reversed. 
+This robot involves two tank tread like in a regular tank. There are two motors on each sides. The motors on each side are reversed. 
 
-# Layout
-The layout/picture of the tank may be released. This is a Vex 4 code. 
+This is a Vex 4 code. 
 
 
 # branches:
